@@ -1,0 +1,5 @@
+song_id,play_count,age,gender,genre,artist
+4,20,0 - 2,F,Rock,A
+4,25,1 - 3,F,Jazz,C
+5,30,3 - 9,M,Pop,D
+5,35,1 - 10,F,Rock,C
